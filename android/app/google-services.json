@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529052640371",
+    "project_id": "sikad-uir",
+    "storage_bucket": "sikad-uir.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529052640371:android:82b4e35edcacfeda99b606",
+        "android_client_info": {
+          "package_name": "com.example.sikad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybnAX_nwJBVehLkueSLesZzIDs46wuxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
